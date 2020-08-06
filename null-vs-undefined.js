@@ -32,7 +32,7 @@ console.log(result);
 
 // undefined scenario example 4
 let premik = { name: 'Dipu', phone: 0171112211 };
-console.log(premik.gf); // age namer kono kisui premik ar object {} er moddhe nai, tai undefined show korbe.
+console.log(premik.gf); // gf namer kono kisui premik ar object {} er moddhe nai, tai undefined show korbe.
 
 
 // undefined scenario example 5
